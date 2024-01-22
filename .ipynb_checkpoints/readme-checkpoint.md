@@ -31,8 +31,6 @@ Estudios de performance superpuesta y comparativos. Implementar estudios de perf
 
 ## PERFORMANCE - INDICE DE FUNCIONES:
 
-## INDICE DE FUNCIONES:
-
 - plotPriceVolat(symbol, desde, hasta, n = 20, log = False): Esta función grafica precio y volatilidad de un ticker en particular entre dos fechas especificadas.
 - plotPricePrice(symbols, desde, hasta, log = False): Esta función grafica la evolución de precios de dos tickers superpuestos.
 - plotPerformance(ticker, years, log = False): Gráfico de evolución de precio de cierre para varios años (parametrizable) del mismo ticker. Permite visualizar estacionalidades, ver cómo se suele comportar en distintas épocas del año, etc.
